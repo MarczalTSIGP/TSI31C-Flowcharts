@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-04-24T17:19:28.718Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xmLs8GKFqtELw0apL3sw" version="21.2.1" type="github">
+  <diagram name="Page-1" id="ECgUo6CLQpgbMDaJvnzH">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-2" value="&lt;br&gt;a" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="104" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-5" value="b = a / 50" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="179" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-6" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-8" value="b" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="397" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-9" value="d" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="471" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-10" value="c = a % 50" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="233" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-11" value="d = c / 10&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="288" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-12" value="e" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="546" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-13" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olMC1NpqKSVgiEKSMfzt-15" value="e = c % 10&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="342" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
