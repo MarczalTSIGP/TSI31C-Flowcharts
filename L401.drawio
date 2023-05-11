@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-05-11T18:53:18.991Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wF1uR4GLH37z3ZF94ToK" version="21.2.1" type="github">
+  <diagram name="Page-1" id="fyhREZghMA31tkUR0o6G">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-4" target="hp9r5W1owC8Be0pyzyPS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-4" value="saudar(nome)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-5" target="hp9r5W1owC8Be0pyzyPS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-5" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-6" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-8" target="hp9r5W1owC8Be0pyzyPS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-8" value="msg = &quot;Olá&quot; + nome + &quot;, Deus abençoe!&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="575" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-9" target="hp9r5W1owC8Be0pyzyPS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-9" value="msg" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-15" target="hp9r5W1owC8Be0pyzyPS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-15" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-16" target="hp9r5W1owC8Be0pyzyPS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-16" value="&lt;br&gt;nome" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hp9r5W1owC8Be0pyzyPS-17" target="hp9r5W1owC8Be0pyzyPS-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="260" />
+              <mxPoint x="340" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-17" value="saudar(nome)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hp9r5W1owC8Be0pyzyPS-18" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
